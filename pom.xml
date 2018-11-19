@@ -27,17 +27,6 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
-        <snapshotRepository>
-            <id>ossrh</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-        </snapshotRepository>
-        <repository>
-            <id>ossrh</id>
-            <name>Maven Central Staging Repository</name>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
-        </repository>
-    </distributionManagement>
     <scm>
         <url>git@github.com:AliwareMQ/aliware-apache-rocketmq-cloud.git</url>
         <connection>scm:git@github.com:AliwareMQ/aliware-apache-rocketmq-cloud.git</connection>
