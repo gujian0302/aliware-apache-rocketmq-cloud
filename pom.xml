@@ -26,10 +26,4 @@
             <version>1.9</version>
         </dependency>
     </dependencies>
-
-    <scm>
-        <url>git@github.com:AliwareMQ/aliware-apache-rocketmq-cloud.git</url>
-        <connection>scm:git@github.com:AliwareMQ/aliware-apache-rocketmq-cloud.git</connection>
-        <developerConnection>scm:git@github.com:AliwareMQ/aliware-apache-rocketmq-cloud.git</developerConnection>
-    </scm>
 </project>
